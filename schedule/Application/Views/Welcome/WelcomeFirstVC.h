@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  WelcomeFirstVC.h
 //  schedule
 //
 //  Created by Prince on 5/30/16.
@@ -8,8 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface WelcomeFirstVC : UIViewController
 
+@property NSUInteger pageIndex;
 
 @end
-
